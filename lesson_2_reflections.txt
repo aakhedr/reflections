@@ -19,3 +19,5 @@ What is the result of merging two branches together? Why do we represent it in t
 What are the pros and cons og Git's automatic merging vs. always doing merges manually?
 
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
